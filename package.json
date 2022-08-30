@@ -1,6 +1,6 @@
 {
   "name": "gitlab-branches-cleaner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tools for deleting old git branches",
   "main": "index.js",
   "scripts": {
