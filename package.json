@@ -1,6 +1,6 @@
 {
-  "name": "git-branches-cleaner",
-  "version": "3.0.0",
+  "name": "gitlab-branches-cleaner",
+  "version": "1.0.1",
   "description": "tools for deleting old git branches",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/AGrigorii/git-branches-cleaner#readme",
   "bin": {
-    "git-branches-cleaner": "./index.js"
+    "gitlab-branches-cleaner": "./index.js"
   },
   "dependencies": {
     "yargs": "17.1.1"

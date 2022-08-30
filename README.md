@@ -1,14 +1,14 @@
-# Git-branches-cleaner
+# gitlab-branches-cleaner
 Tool for deleting old branches from your remote git repository
 
 From version 2.0.0 it is required the node.js version >= 10.0.0
 ## Install package
-`npm install -g git-branches-cleaner`
+`npm install -g gitlab-branches-cleaner`
 
 ## Usage examples
-Show branches older than `15` days: `git-branches-cleaner --mode show --older-than 15`
+Show branches older than `15` days: `gitlab-branches-cleaner --mode show --older-than 15`
 
-Delete branches older than `100` days: `git-branches-cleaner -m delete -o 100`
+Delete branches older than `100` days: `gitlab-branches-cleaner -m delete -o 100`
 
 ## Options
 * `--version, -h` Show version number
